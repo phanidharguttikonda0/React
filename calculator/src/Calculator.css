@@ -1,0 +1,41 @@
+.calcy{
+    display: flex-box;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.inside{
+width: 500px;
+height: 90px;
+font-size: 50px;
+display: flex;
+justify-content: right;
+align-items: center;
+}
+
+.buttons{
+    background-color: black;
+}
+
+.row{
+    
+}
+
+button{
+    font-size: 50px;
+    width: 25%;
+    background-color: #e0e0e0;
+}
+
+.button-0{
+    width: 50%;
+}
+
+.Symbol{
+    background-color:  #f5923e;;
+}
